@@ -1,0 +1,5 @@
+### NOTICE ###
+Anything you put into AQutie may be visible to the person running this bot,
+as well as anyone that gains access to the library file.
+Please do not save any personal information to the library -- if you want to get AQ values of your name
+or other identifying information, and you trust the owner of this bot, use "?aq" and "?aqqa".

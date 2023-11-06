@@ -1,0 +1,15 @@
+### AQutie HELP TEXT ###
+!aq <text>- calculates the AQ of text provided, saves it to data store
+!aqqa <text> - combines the functionality of !aq and !revaq in a single query
+!aqplex <text> - combines the functionality of !aq and !plex in a single query
+?aq <text>- calculates the AQ of text provided, does not save to data store
+?aqqa <text> - combines the functionality of ?aq and !revaq in a single query
+?aqplex <text> - combines the functionality of ?aq and !plex in a single query
+!hi - say hello to AQutie!
+!help - send this help text
+!plex <integer> - reduces a number to a single digit via repeated digital cumulation
+!random - calls !revaq randomly, only returns results from an AQ value with associated phrases
+!revaq <integer> - returns all phrases associated with the provided AQ value
+!stats - gets library statistics (currently just word count)
+!time - gets the current time at Deadlines (calculated in seconds since Yettuk's arrival)
+!values - prints character AQ values
