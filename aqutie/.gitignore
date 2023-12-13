@@ -4,5 +4,4 @@ __pycache__/
 *.txt
 !notice.txt
 !help.txt
-!requirements.txt
 !nummificator.txt
