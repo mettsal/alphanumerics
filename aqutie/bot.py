@@ -90,6 +90,7 @@ def reverse_lookup(number):
 def write_to_store(number, text):
     with open(LIBRARYFILE, "a+") as store:
         store.write(f"{number}: {text}\n")
+        print(f"The text {text} has been added to the library {LIBRARYFILE}")
 
 def random_aq_value():
     """returns one of the populated AQ values from the dictionary"""
