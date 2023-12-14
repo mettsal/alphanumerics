@@ -1,7 +1,8 @@
 .env
 env/
 __pycache__/
-*.txt
+token.txt
+words.2023-08-02.40417.txt
 !notice.txt
 !help.txt
 !nummificator.txt
